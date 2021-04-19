@@ -1,0 +1,19 @@
+.head{
+    text-align:center;
+    
+}
+.container{
+    display:flex;
+    flex-direction: row;
+    width:700px;
+    margin:auto;
+}
+.key{
+    margin:2px;
+    flex:1;
+    min-width:80px;
+    
+}
+.controls{
+padding-left: 252px;
+}
